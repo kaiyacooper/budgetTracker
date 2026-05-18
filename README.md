@@ -2,9 +2,8 @@
 
 # Budget Tracker – Personal Finance Console App
 **Author:** Kaiya Cooper  
-**Last updated:** 27 Feb 2026  
 
-A lightweight, Java‑based command‑line tool that helps you set monthly budgets for five core categories, record discretionary spendings, and receive instant feedback on how close you’re getting to each budget limit.
+A Java‑based command‑line tool that helps you set monthly budgets for five core categories, record discretionary spendings, and receive instant feedback on how close you’re getting to each budget limit.
 
 ---
 
