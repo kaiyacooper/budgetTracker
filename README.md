@@ -1,4 +1,4 @@
-# budgetTracker
+# Budget Tracker
 
 # Budget Tracker – Personal Finance Console App
 **Author:** Kaiya Cooper  
