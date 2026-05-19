@@ -45,16 +45,6 @@ The app runs entirely in the terminal – no GUI or external dependencies.
 
 ---
 
-## Building & Running
-
-```bash
-# Compile
-javac cooper_kaiya_budgettracker.java
-
-# Run
-java cooper_kaiya_budgettracker
-```
-
 You’ll be greeted by a menu:
 
 ```
